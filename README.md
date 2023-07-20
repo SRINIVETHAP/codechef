@@ -9,6 +9,8 @@
 |6|[THE LEAD GAME](https://www.codechef.com/viewsolution/100088507)|LG|
 |7|[WORDLE](https://www.codechef.com/viewsolution/100088894)|W|
 |8|[COMPLETE TEH CREDITS](https://www.codechef.com/viewsolution/100145008)|CC|
+|9|[The preparations](https://www.codechef.com/viewsolution/100145171)|TP|
+|10|[GENES](https://www.codechef.com/viewsolution/100145488)|G|
 
 
 
