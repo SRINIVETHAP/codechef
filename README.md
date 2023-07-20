@@ -18,6 +18,12 @@
 |15|[MIXTURE](https://www.codechef.com/viewsolution/100622980)|MIX|
 |16|[REDISTIBUTING CHOCOLATES](https://www.codechef.com/viewsolution/100623322)|RC|
 |17|[CHESS FORMAT](https://www.codechef.com/viewsolution/100708037)|CF|
+|18|[BODY MASS INDEX](https://www.codechef.com/viewsolution/100708213)|BMI|
+|19|[HARDEST PROBLEM BET](https://www.codechef.com/viewsolution/100088779)|HPB|
+|20|[](https://www.codechef.com/viewsolution/100088779)|HPB|
+
+
+
 
 
 
