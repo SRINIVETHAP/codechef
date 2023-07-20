@@ -20,7 +20,7 @@
 |17|[CHESS FORMAT](https://www.codechef.com/viewsolution/100708037)|CF|
 |18|[BODY MASS INDEX](https://www.codechef.com/viewsolution/100708213)|BMI|
 |19|[HARDEST PROBLEM BET](https://www.codechef.com/viewsolution/100088779)|HPB|
-|20|[](https://www.codechef.com/viewsolution/100088779)|HPB|
+|20|[PLAYOFFS](https://www.codechef.com/viewsolution/100088448)|PL|
 
 
 
