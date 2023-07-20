@@ -11,6 +11,24 @@
 |8|[COMPLETE TEH CREDITS](https://www.codechef.com/viewsolution/100145008)|CC|
 |9|[The preparations](https://www.codechef.com/viewsolution/100145171)|TP|
 |10|[GENES](https://www.codechef.com/viewsolution/100145488)|G|
+|11|[GOOD WEATHER](https://www.codechef.com/viewsolution/100146269)|GW|
+|12|[MIN MAX](https://www.codechef.com/viewsolution/100146422)|MM|
+|13|[GRADE THE SHEET](https://www.codechef.com/viewsolution/100146532)|GTS|
+|14|[VOWEL OR CONSTANT](https://www.codechef.com/viewsolution/100223871)|VC|
+|15|[MIXTURE](https://www.codechef.com/viewsolution/100622980)|MIX|
+|16|[REDISTIBUTING CHOCOLATES](https://www.codechef.com/viewsolution/100623322)|RC|
+|17|[CHESS FORMAT](https://www.codechef.com/viewsolution/100708037)|CF|
+
+
+
+
+
+
+
+
+
+
+
 
 
 
